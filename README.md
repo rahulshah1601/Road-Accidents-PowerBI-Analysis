@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing **UK Road Accident data** to uncover insights related to casualties, accident severity, vehicle involvement, lighting conditions, road types, and geospatial accident patterns.
 
-![Dashboard Preview](images/ss road accident.jpg)
-
 ---
 
 ## 🛠 Tools Used
